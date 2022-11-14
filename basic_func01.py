@@ -2,4 +2,4 @@
 
 # Return the value 0
 def main():
-    return 0
+    return   0
