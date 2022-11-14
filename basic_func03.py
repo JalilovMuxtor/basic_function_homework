@@ -1,5 +1,5 @@
 # Create a function called main.
 def main():
-    return "codeschool"
+    return "codeschooluz"
 # Return the value "codeschooluz"
 print(main())
